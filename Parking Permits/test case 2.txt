@@ -1,0 +1,12 @@
+Student Name: Dawson
+Address: 3969 Bryson Lane
+Email: dtomes@clemson.edu
+Phone Number: 8438131159
+Driver Number: 52823523
+CUID: 32424234234
+Low Emission Vehicle Make: Ford
+Model: Fusion
+License Plate: XYZ123
+Color: black
+Year: 2019
+Permit: Semester (S)

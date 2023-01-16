@@ -1,0 +1,12 @@
+EmployeeID: 7567
+Social Security: 88867
+Name: Dawson
+Address: 3969 Bryson Lane
+Phone Number: 8438131159
+Driver Number: 88921341
+Make: Ford
+Model: Edge
+License Plate: VYY378
+Color: Red
+Year: 2008
+Permit: Annual (A)
