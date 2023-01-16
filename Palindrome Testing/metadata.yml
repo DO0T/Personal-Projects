@@ -1,0 +1,14 @@
+---
+:id: 145893568
+:submitters:
+- :name: Caleb Joseph Murphy
+  :email: cmurp25@clemson.edu
+- :name: Dawson Otto Tomes
+  :email: dtomes@clemson.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-02 20:20:27.651240000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-02 13:20:27.651240000 Z
+:status: processed
+:score: 10.0
