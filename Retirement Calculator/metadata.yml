@@ -1,0 +1,12 @@
+---
+:id: 132848327
+:submitters:
+- :name: Dawson Otto Tomes
+  :email: dtomes@clemson.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-09 23:29:57.355857000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-09 16:29:57.355857000 Z
+:status: processed
+:score: 8.0
